@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    <groups>
+        <run>
+            <include name="smoke"/>
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="testUtils.listners"></listener>
+    </listeners>
+    <test name="test1">
+        <classes>
+            <class name="com.testPackage.test1"/>
+           <class name="com.testPackage.test2"/>
+        </classes>
+    </test>
+
+</suite>

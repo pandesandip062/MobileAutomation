@@ -1,0 +1,16 @@
+12:58:57.952 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+12:58:57.965 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+12:59:56.080 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+12:59:56.089 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+13:00:00.744 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+13:00:00.750 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+13:00:47.528 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Integrate source: java:appium-intellij:v1.1.4
+13:00:47.528 [AWT-EventQueue-0] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+13:00:47.608 [ApplicationImpl pooled thread 162] INFO  c.b.l.BrowserStackRunExtension - maven
+13:00:47.608 [ApplicationImpl pooled thread 162] INFO  com.browserstack.utils.Helpers - null
+13:02:00.179 [java.exe] INFO  c.b.launchers.LaunchMavenCommand - Completed maven archetype command
+15:50:54.686 [ApplicationImpl pooled thread 214] INFO  c.b.l.BrowserStackRunExtension - testng
+15:50:54.687 [ApplicationImpl pooled thread 214] INFO  com.browserstack.utils.Helpers - true
+15:50:54.687 [ApplicationImpl pooled thread 214] INFO  com.browserstack.utils.Helpers - C:/Users/Admin/.m2/repository/com/browserstack/browserstack-java-sdk/1.23.0/browserstack-java-sdk-1.23.0.jar
+15:50:54.687 [ApplicationImpl pooled thread 214] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/Admin/.m2/repository/com/browserstack/browserstack-java-sdk/1.23.0/browserstack-java-sdk-1.23.0.jar
+15:50:54.687 [ApplicationImpl pooled thread 214] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
